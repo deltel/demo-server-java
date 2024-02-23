@@ -1,0 +1,1 @@
+web: java -jar target/demo-server-java-0.0.1-SNAPSHOT.jar
